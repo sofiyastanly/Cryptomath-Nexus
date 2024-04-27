@@ -1,0 +1,12 @@
+.sent-message {
+    justify-content: flex-end;
+  }
+  
+  .sent-message .card {
+    background-color: #DCF8C6;
+  }
+  
+  .received-message .card {
+    background-color: #FFFFFF;
+  }
+  
